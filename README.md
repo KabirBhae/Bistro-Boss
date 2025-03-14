@@ -47,7 +47,7 @@ Project Summary:
 * Utilization of libraries like TanStack Query, React Hook Form, DaisyUI, Swiper.js etc. to write performance-efficient, scalable code while enhancing the overall user experience.
 * Use of custom hooks and context API to write modular code.
 
-Checkout the deployed project at: [Bistro-Boss](https://bistro-boss-bf579.web.app)  
+Checkout the deployed project at: [Bistro Boss Website](https://bistro-boss-bf579.web.app)  
 Source code of server side is available in this repository: [Bistro-Boss-Server](https://github.com/KabirBhae/Bistro-Boss-Server)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +134,7 @@ This project could be used for any real life restaurant that performs food deliv
 <!-- Future Developments -->
 ## Future-Developments
 
-- Add user and admin dashboard
+- Add <s>admin</s> (done) and user dashboard
 - Making the UI responsive for small and medium devices
 - Making the UI more consistent
 - Making the UX better
@@ -166,6 +166,7 @@ The completion of the project would be challenging without:
 * [React Simple Captcha](https://github.com/masroorejaz/react-simple-captcha)
 * [React Tabs](https://github.com/reactjs/react-tabs)
 * [Swiper](https://swiperjs.com/)
+* [Recharts](https://github.com/recharts/recharts)
 * [React Hook Form](https://react-hook-form.com)
 * [React Icons](https://react-icons.github.io/react-icons)
 * [Img Shields](https://shields.io)
